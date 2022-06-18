@@ -1,0 +1,57 @@
+body {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  text-align: left;
+}
+
+main {
+  width: 400px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: x-small;
+}
+.sedan {
+  background-color: orange;
+  padding: 20px;
+  color: white;
+  padding-bottom: 30px;
+  width: 50em;
+}
+.suv {
+  background-color: teal;
+  color: white;
+  padding: 3%;
+  width: 50em;
+}
+.luxury {
+  background-color: rgb(0, 128, 77, 0.697);
+  padding: 20px;
+  color: white;
+  padding: 9%;
+}
+.one {
+  font-size: xx-large;
+}
+.buttone {
+  border: 5px;
+  border-radius: 10px;
+  padding: 10px;
+  color: orange;
+}
+.buttwo {
+  border: 5px;
+  border-radius: 10px;
+  padding: 10px;
+  color: teal;
+}
+.butthree {
+  border: 5px;
+  border-radius: 10px;
+  padding: 10px;
+  color: rgb(0, 128, 77, 0.697);
+}
